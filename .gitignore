@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.log
+
+# Environments
+.env
+venv/
+env/
+*.env
+
+# IDEs
+.vscode/
+.idea/
+
+# Migrations (optional)
+**/migrations/*.py
+!**/migrations/__init__.py
+
+# Byte-compiled and temp files
+*.swp
+.DS_Store
